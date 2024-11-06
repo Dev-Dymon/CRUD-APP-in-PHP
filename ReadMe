@@ -1,0 +1,6 @@
+"php_crud_app" is our database name
+
+STEPS
+
+1. create a new database and give it the above database name.
+2. import the SQL file from the folder.
